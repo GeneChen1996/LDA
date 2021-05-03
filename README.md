@@ -1,2 +1,2 @@
 # LDA
-使用MATLAB撰寫簡易LDA分類器
+利用Iris data set測試Linear Discriminant Analysis (LDA)分類器
